@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Desktop\\codecanyon-31705226-mightyweb-flutter-for-web-to-app-convertor-admin-panel\\MightyWebSourceCode\\flutter_mobile-v2\\.dart_tool\\flutter_build\\b38de9a54b9bea4cab9bec4fe98f6f4e\\native_assets.yaml: 
